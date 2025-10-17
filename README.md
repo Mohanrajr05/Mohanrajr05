@@ -1,10 +1,10 @@
-# 💫 About Me:
+#  About Me:
 👋 Hi, I'm **Mohan Raj** – a passionate CSE student & developer who loves solving real-world problems through code.  
-🎓 Final Year B.E. Computer Science Engineering student at **Anna University**.  
+🎓 Final Year B.E. Computer Science Engineering student at **Agni College of Technology**.  
 💡 Currently working on **Machine Learning** and **Django-based projects**.  
 🏆 **Team Lead of Team Riven** – our eCommerce project for farmers won *First Prize* in a department competition.  
 🚀 I enjoy turning ideas into impactful tech and constantly learning new technologies to grow as a developer.  
-🌱 Exploring advanced Machine Learning, Web Development, and Full-Stack projects.  
+ Exploring advanced Machine Learning, Web Development, and Full-Stack projects.  
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Featured Projects:
+##  Featured Projects:
 - 🌾 **Empowering Farmers Through eCommerce Platform** – Flutter & Dart-based platform; *1st Prize Winner 🥇*  
 - 💳 **Fraud Detection in Online Transactions** – ML model using data analytics for anomaly detection  
 - 🏋️ **Exercise Analyzer using Pose Estimation** – Django + TensorFlow + Mediapipe-based fitness tracker  
@@ -24,7 +24,7 @@
 
 ---
 
-## 💻 Tech Stack:
+##  Tech Stack:
 **Languages:** Python, Java, SQL  
 **Frameworks & Libraries:** Django, TensorFlow, Keras, scikit-learn  
 **Frontend & Design:** Flutter, Figma  
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohanrajr05&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
@@ -69,7 +69,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
@@ -78,5 +78,5 @@
 
 ---
 
-⭐️ *From [MohanRajr05](https://github.com/MohanRajr05)*  
+*From [MohanRajr05](https://github.com/MohanRajr05)*  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

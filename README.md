@@ -27,7 +27,7 @@
 ##  Tech Stack:
 **Languages:** Python, Java, SQL  
 **Frameworks & Libraries:** Django, TensorFlow, Keras, scikit-learn  
-**Frontend & Design:** Flutter, Figma  
+**Frontend & Design:**  Figma  
 **Databases:** MySQL, SQLite, PostgreSQL  
 **Tools:** Git, GitHub, Postman, VS Code, Jupyter Notebook  
 **Data Science:** NumPy, Pandas  

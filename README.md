@@ -1,82 +1,89 @@
-#  About Me:
-👋 Hi, I'm **Mohan Raj** – a passionate CSE student & developer who loves solving real-world problems through code.  
-🎓 Final Year B.E. Computer Science Engineering student at **Agni College of Technology**.  
-💡 Currently working on **Machine Learning** and **Django-based projects**.  
-🏆 **Team Lead of Team Riven** – our eCommerce project for farmers won *First Prize* in a department competition.  
-🚀 I enjoy turning ideas into impactful tech and constantly learning new technologies to grow as a developer.  
- Exploring advanced Machine Learning, Web Development, and Full-Stack projects.  
+<!-- Minimal Dark GitHub Profile by Mohan Raj -->
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Mohan+Raj;Machine+Learning+%7C+Django+Developer;Final+Year+CSE+Student;Building+Impactful+Software+Solutions" alt="Typing Animation" />
+</p>
+
+<h1 align="center">Hi, I'm <strong>Mohan Raj</strong> 👋</h1>
+<p align="center">ML & Django Developer | Team Lead | Problem Solver</p>
 
 ---
 
-## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Mohanrajr05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanrajr05)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rxj_05)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohanrajr059@gmail.com)
+## 🧑‍💻 About Me
+
+I'm a developer passionate about building real-world solutions using technology.  
+I focus on **ML + Web Development**, crafting systems that are scalable, meaningful, and user-centric.
+
+- 🎓 **Final Year CSE** @ Agni College of Technology  
+- 🏆 **Team Lead — Team Riven** *(1st Prize Winner for eCommerce Platform for Farmers)*  
+- 💡 Strong interests in Machine Learning, Computer Vision & System Design  
+- 🚀 Continuously learning and working on impactful projects  
 
 ---
 
-##  Featured Projects:
-- 🌾 **Empowering Farmers Through eCommerce Platform** – Flutter & Dart-based platform; *1st Prize Winner 🥇*  
-- 💳 **Fraud Detection in Online Transactions** – ML model using data analytics for anomaly detection  
-- 🏋️ **Exercise Analyzer using Pose Estimation** – Django + TensorFlow + Mediapipe-based fitness tracker  
-- 🍗 **Poultry Inventory Management System** – Django project to manage stock & customer orders  
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://github.com/Mohanrajr05"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mohanrajr05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/_rxj_05"><img src="https://img.shields.io/badge/Instagram-000?logo=instagram&logoColor=white" /></a>
+<a href="mailto:mohanrajr059@gmail.com"><img src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-##  Tech Stack:
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🌾 **Farmers eCommerce Platform** *(1st Prize)* | Helps farmers sell directly to consumers | Flutter, Dart, Firebase |
+| 💳 **Fraud Detection System** | Detects suspicious online transactions | Python, scikit-learn, Pandas |
+| 🏋️ **Exercise Pose Analyzer** | Real-time rep counter & posture correction | Django, Mediapipe, TensorFlow |
+| 🍗 **Poultry Inventory Manager** | Weight-based stock & order automation | Django, MySQL |
+
+---
+
+## ⚙️ Tech Stack
+
 **Languages:** Python, Java, SQL  
-**Frameworks & Libraries:** Django, TensorFlow, Keras, scikit-learn  
-**Frontend & Design:**  Figma  
-**Databases:** MySQL, SQLite, PostgreSQL  
-**Tools:** Git, GitHub, Postman, VS Code, Jupyter Notebook  
-**Data Science:** NumPy, Pandas  
+**Frameworks:** Django, TensorFlow, Keras  
+**Databases:** MySQL, PostgreSQL, SQLite  
+**Tools:** Git, GitHub, VS Code, Postman  
+**Data Science:** Pandas, NumPy, scikit-learn  
+**Design:** Figma  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,java,django,tensorflow,opencv,mysql,postgres,git,github,figma,vscode" />
 </p>
 
 ---
 
-##  GitHub Stats:
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohanrajr05&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanrajr05&theme=dark&hide_border=false" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohanrajr05&show_icons=true&theme=github_dark&hide_border=false" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanrajr05&theme=github-dark&hide_border=false" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanrajr05&theme=dark&hide_border=false&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanrajr05&layout=compact&theme=github_dark&hide_border=false" width="40%"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
+### 🟢 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohanrajr05&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohanrajr05&theme=github-dark&hide_border=false"/>
 </p>
 
 ---
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohanrajr05&theme=onestar&margin-w=10" />
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Mohanrajr05&label=Profile%20Views&color=blueviolet&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohanrajr05&label=Profile%20Views&color=grey&style=flat-square" />
+</p>
 
----
-
-*From [MohanRajr05](https://github.com/MohanRajr05)*  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

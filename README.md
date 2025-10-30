@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi, I'm <strong>Mohan Raj</strong> 👋</h1>
-<p align="center">ML & Django Developer | Team Lead | Problem Solver</p>
+<p align="center">Python, ML & Django Developer | Team Lead | Problem Solver</p>
 
 ---
 

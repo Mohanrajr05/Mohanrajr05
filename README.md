@@ -1,7 +1,7 @@
 <!-- Minimal Dark GitHub Profile by Mohan Raj -->
 <!-- Remove this tommorrow -->
 <!-- Banner -->
-
+<!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Mohan+Raj;Machine+Learning+%7C+Django+Developer;Final+Year+CSE+Student;Building+Impactful+Software+Solutions" alt="Typing Animation" />
 </p>

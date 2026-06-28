@@ -1,5 +1,4 @@
 <!-- Minimal Dark GitHub Profile by Mohan Raj -->
-
 <!-- Remove this tommorrow -->
 <!-- Banner -->
 <p align="center">

@@ -1,7 +1,6 @@
 # 👋 Mohanrajr05 - GitHub Profile
 
 **GitHub Username:** [@Mohanrajr05](https://github.com/Mohanrajr05)
-
 ---
 
 ## 📊 Profile Overview
